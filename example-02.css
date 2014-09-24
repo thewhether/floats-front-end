@@ -19,9 +19,8 @@
 
 .main-content {
 	float: left;
-	/* hint! */
+	width: 734px;
 }
 
 .footer {
-	/* hint! */
-}
+	clear: both;}

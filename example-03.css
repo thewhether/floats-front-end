@@ -14,15 +14,17 @@
 .header {}
 
 .sidebar {
-	/* hint! */
+	float: right;
+	width: 250px;
 }
 
 .main-content {
-	/* hint! */
+	float: right;
+	width: 734px;
 }
 
 .footer {
-	/* hint! */
+	clear: both;
 }
 
 /*

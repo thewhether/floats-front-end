@@ -27,7 +27,7 @@
 }
 
 .footer {
-    clear: both; /* to clear the floated elements above it. try removing me and see what happens. it might be more obvious if you add some margin to all the elements. */
+ ; /* to clear the floated elements above it. try removing me and see what happens. it might be more obvious if you add some margin to all the elements. */
 
 }
 
